@@ -102,4 +102,4 @@ export default function WeatherForecast(props) {
 ## Languages
 
 - English - UpperIntermediate
-- Ukrainien - Native
+- Ukrainian - Native
