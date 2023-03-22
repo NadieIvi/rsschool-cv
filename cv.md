@@ -6,10 +6,13 @@
 
 ## Contact Information::
 
-**E-mail:** nadie.ivanitska@gmail.com
-**Telegram:** @nadieivy
-[**LinkedIn**](https://www.linkedin.com/in/nadieivanitska/)
-[**GitHub**](https://github.com/NadieIvi)
+#### **E-mail:** nadie.ivanitska@gmail.com
+
+#### **Telegram:** @nadieivy
+
+#### [**LinkedIn**](https://www.linkedin.com/in/nadieivanitska/)
+
+#### [**GitHub**](https://github.com/NadieIvi)
 
 ---
 
@@ -31,7 +34,11 @@ I am currently actively studying Front End (HTML, CSS, JavaScript), so I am look
 
 ## Code Example:
 
-Weather Forecast component from the project **Weather App** [Project link](https://roaring-biscochitos-e8e105.netlify.app/) [Project Github link](https://github.com/NadieIvi/react-weather-final)
+Weather Forecast component from the project **Weather App**
+
+#### [Project link](https://roaring-biscochitos-e8e105.netlify.app/)
+
+#### [Project Github link](https://github.com/NadieIvi/react-weather-final)
 
 ```javascript
 //
@@ -85,9 +92,9 @@ export default function WeatherForecast(props) {
 
 ## Certifications
 
-- [**SheCodes Basics:**] (https://www.shecodes.io/certificates/f2663c34db56b20f21e0ab5a706d847e) learned basics of HTML5, CSS, JavaScript
-- [**SheCodes Plus:**] (https://www.shecodes.io/certificates/e9535ae74dda4b36971b84d6068e3cf7) learned basics of Bootstrap, Git, API
-- [**SheCodes Responsive:**] (https://www.shecodes.io/certificates/ad9ed577de4108483c7c1bc4dcb38a97) learned Responsiveness
+- [**SheCodes Basics:**](https://www.shecodes.io/certificates/f2663c34db56b20f21e0ab5a706d847e) learned basics of HTML5, CSS, JavaScript
+- [**SheCodes Plus:**](https://www.shecodes.io/certificates/e9535ae74dda4b36971b84d6068e3cf7) learned basics of Bootstrap, Git, API
+- [**SheCodes Responsive:**](https://www.shecodes.io/certificates/ad9ed577de4108483c7c1bc4dcb38a97) learned Responsiveness
 - [**SheCodes React:**](https://www.shecodes.io/certificates/d1e6f381381c6667c0f7afbefbb3342d) learned basics of React
 
 ---
