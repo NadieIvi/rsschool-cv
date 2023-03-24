@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #f8f6f6;
+  --primary-color: #f1ecec;
   --icon-color: #867070;
 }
 
@@ -9,7 +9,7 @@
   max-width: 1080px;
   width: 100%;
   font-size: 1.5rem;
-  padding: 0 2rem;
+  padding: 2rem 6rem;
 }
 /* header-info*/
 h1,
@@ -39,6 +39,7 @@ h2 {
 
 .project-buttons {
   display: flex;
+  margin-bottom: 2rem;
 }
 .project-link {
   border-radius: 4px;
@@ -54,4 +55,28 @@ h2 {
   background-color: var(--primary-color);
   border: var(--icon-color) solid 1px;
   color: var(--icon-color);
+}
+
+/*Certifications*/
+
+.certificate-img {
+  max-width: 20rem;
+  width: 100%;
+}
+.certificate-item {
+  display: flex;
+}
+
+.certificate-description {
+  padding: 3rem 1rem;
+}
+
+/*Languages*/
+.language-item {
+  display: flex;
+}
+
+.language-item img {
+  max-width: 5rem;
+  width: 100%;
 }
