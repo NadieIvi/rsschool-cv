@@ -1,0 +1,23 @@
+body {
+  margin: 0 auto;
+  background-color: #f5ebeb;
+  max-width: 1080px;
+  width: 100%;
+}
+
+/* contact-info*/
+.hr {
+  color: #867070;
+}
+.contact-info ul {
+  list-style: none;
+  line-height: 2rem;
+  font-size: 1.5rem;
+}
+
+.contact-info i {
+  color: #867070;
+
+  padding-right: 1.5rem;
+  vertical-align: middle;
+}
